@@ -1,0 +1,130 @@
+// Google Fonts ===============
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface|Oswald|Vidaloka);
+
+// Color Variables ===============
+$color-nav-background: #fbf7f0;
+$color-header: #cdc9c3;
+$color-white: #fff;
+$color-black: #070707;
+
+// Font Variables ===============
+$abril: 'Abril Fatface', serif;
+$oswald: 'Oswald', sans-serif;
+$vida: 'Vidaloka', serif;
+
+// Font Styles ===============
+.abril {
+	font-family: $abril;
+}
+
+.oswald {
+	font-family: $oswald;
+}
+
+.vida {
+	font-family: $vida;
+}
+
+// General Styles ===============
+.striped-section {
+	background-color: $color-nav-background;
+}
+
+footer {
+	font-size: .7em;
+}
+
+.container {
+	padding-right: 0;
+	/*15px in bootstrap.css*/
+	padding-left: 0;
+	/*idem*/
+	margin-right: auto;
+	margin-left: auto;
+}
+
+// Search Styles ===============
+#search {
+	color: $color-black;
+}
+
+.searchInput {
+	display: none;
+}
+
+.searchInput input {
+	background-color: $color-header;
+}
+
+// Nav Styles ===============
+nav.navbar {
+	background-color: $color-nav-background;
+}
+
+// Header Styles ===============
+.main-page-header {
+	font-size: 5.5rem;
+	font-family: $abril;
+	background: linear-gradient(to bottom, $color-white 50%, $color-header 0%);
+}
+
+.main-page-header-subtitle {
+	font-size: 1.15rem;
+	font-family: $oswald;
+}
+
+// Card Styles ===============
+.card {
+	width: 20rem;
+	transition: transform .4s;
+}
+
+.card:hover {
+	transform: scale(1.025);
+}
+
+div.card-text-bg {
+	background-color: $color-white;
+	opacity: 0.7;
+}
+
+div.card-text-bg p {
+	margin: 5%;
+	color: $color-black;
+	font-size: 2em;
+	font-weight: bold;
+	font-family: $vida;
+}
+
+// Spacer Styles ===============
+.spacer {
+	padding: 2rem;
+	background-color: $color-nav-background;
+}
+
+// Image Styles ===============
+.section-title {
+	font-size: 1.3em;
+}
+
+.zoom {
+	transition: transform .5s;
+}
+
+.zoom:hover {
+	transform: scale(1.03);
+	opacity: .8;
+}
+
+// New Release Styles ===============
+.new-release-title {
+	border-bottom: 1px solid $color-black;
+}
+
+.article-heading {
+	color: $color-black;
+}
+
+.article-heading:hover {
+	color: $color-header;
+}
