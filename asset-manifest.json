@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bookblog/static/css/main.ac6610ba.chunk.css",
-    "main.js": "/bookblog/static/js/main.8701b281.chunk.js",
-    "main.js.map": "/bookblog/static/js/main.8701b281.chunk.js.map",
+    "main.js": "/bookblog/static/js/main.336af9a3.chunk.js",
+    "main.js.map": "/bookblog/static/js/main.336af9a3.chunk.js.map",
     "runtime-main.js": "/bookblog/static/js/runtime-main.2b689dd7.js",
     "runtime-main.js.map": "/bookblog/static/js/runtime-main.2b689dd7.js.map",
     "static/css/2.4c34b247.chunk.css": "/bookblog/static/css/2.4c34b247.chunk.css",
@@ -12,13 +12,22 @@
     "static/css/2.4c34b247.chunk.css.map": "/bookblog/static/css/2.4c34b247.chunk.css.map",
     "static/css/main.ac6610ba.chunk.css.map": "/bookblog/static/css/main.ac6610ba.chunk.css.map",
     "static/js/2.896d0317.chunk.js.LICENSE.txt": "/bookblog/static/js/2.896d0317.chunk.js.LICENSE.txt",
-    "static/media/bagel.ebd81e68.jpg": "/bookblog/static/media/bagel.ebd81e68.jpg"
+    "static/media/bagel.ebd81e68.jpg": "/bookblog/static/media/bagel.ebd81e68.jpg",
+    "static/media/bbcdune.92f5a1ab.jpg": "/bookblog/static/media/bbcdune.92f5a1ab.jpg",
+    "static/media/bookstore.337f51f8.jpg": "/bookblog/static/media/bookstore.337f51f8.jpg",
+    "static/media/lightbeyond.d5c98116.jpg": "/bookblog/static/media/lightbeyond.d5c98116.jpg",
+    "static/media/newreleases.d7c323c9.jpg": "/bookblog/static/media/newreleases.d7c323c9.jpg",
+    "static/media/outsider.c775d39f.jpg": "/bookblog/static/media/outsider.c775d39f.jpg",
+    "static/media/readingcouch.0e8e02e1.jpg": "/bookblog/static/media/readingcouch.0e8e02e1.jpg",
+    "static/media/readingspot.5462414a.jpg": "/bookblog/static/media/readingspot.5462414a.jpg",
+    "static/media/showbook.5db7bb4d.jpg": "/bookblog/static/media/showbook.5db7bb4d.jpg",
+    "static/media/sineater.db89a782.jpg": "/bookblog/static/media/sineater.db89a782.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2b689dd7.js",
     "static/css/2.4c34b247.chunk.css",
     "static/js/2.896d0317.chunk.js",
     "static/css/main.ac6610ba.chunk.css",
-    "static/js/main.8701b281.chunk.js"
+    "static/js/main.336af9a3.chunk.js"
   ]
 }
