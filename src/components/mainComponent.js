@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Switch, Route, Redirect, withRouter } from "react-router-dom";
 
 // Components
-import Home from "./homeComponent";
+import BookBlog from "./homeComponent";
 import SearchNav from "./searchNavComponent";
 import BookPage from "./bookComponent";
 import About from "./aboutComponent";
@@ -14,7 +14,7 @@ class Main extends Component {
             <div>
                 <SearchNav />
                 <Switch>
-                    <Route path="/bookblog" component={Home} />
+                    <Route path="/bookblog" component={BookBlog} />
                     <Route exact path="/books" render={() => <BookPage />} />
                     <Route exact path="/recommendations" render={() => <Recommendations />} />
                     <Route exact path="/about" render={() => <About />} />
