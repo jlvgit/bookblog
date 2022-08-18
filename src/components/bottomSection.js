@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "reactstrap";
-import bagel from "imgs/bagel.jpg";
+import bagel from "../images/bagel.jpg";
 
 function bottomSection() {
     return (
